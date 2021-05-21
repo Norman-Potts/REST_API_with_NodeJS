@@ -18,6 +18,8 @@ Lab2 of Web2.0 and PHP frameworks.
 const express = require('express');//Include the express package
 const app = express();
 const fs = require('fs');
+var lasdffdafda =1;
+console.log('aa');
 	
 	
 /// Check for database then create database and table. 
